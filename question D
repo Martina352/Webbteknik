@@ -1,0 +1,57 @@
+<!DOCTYPE html
+
+<head>
+   
+    <title> </title>
+    <meta charset= "UTF-8">
+
+</head>
+
+<body>
+
+    <header>
+        <h1></h1>
+        <h3></h3>
+    </header>
+    <nav>
+        <ul>
+            <li><a href= alt=></a></li>
+            <li><a href= alt=></a></li>
+            <li><a href= alt=></a></li>
+            <li><a href= alt=></a></li>
+        </ul>
+       
+    </nav>
+    <main>
+        <div>
+            <p></p>
+            <ol>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ol>
+        </div>
+        <h2></h2>
+        <p></p>
+        <h3></h3>
+        <p></p>
+        <h3></h3>
+        <p></p>
+        <table>
+            <thead>
+                <tr><th></th></tr>
+            </thead>
+            <tbody>
+                <tr><td></td></tr>
+                <tr><td></td></tr>
+                <tr><td></td></tr>
+                <tr><td></td></tr>
+                <tr><td></td></tr>
+            </tbody>
+            
+        </table>
+    </main>
+    <footer>
+Martina Andersson 23/9 2019
+    </footer>
+</body>
